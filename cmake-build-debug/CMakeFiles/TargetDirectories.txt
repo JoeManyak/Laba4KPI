@@ -1,3 +1,0 @@
-C:/Users/ramp8/CLionProjects/KPI_labse/Laba4/cmake-build-debug/CMakeFiles/Laba4.dir
-C:/Users/ramp8/CLionProjects/KPI_labse/Laba4/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/ramp8/CLionProjects/KPI_labse/Laba4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
