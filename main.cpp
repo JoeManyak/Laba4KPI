@@ -121,7 +121,7 @@ public:
     }
     void ShowCurrentStats(){
         Stats currentStats ;
-        cout << "==================" ;
+        cout << "==================\n" ;
         cout << "Temperature: " << currentStats.MeasureTemp() << '\n' ;
         cout << "Humidity: " << currentStats.MeasureHumidity() << '\n' ;
         cout << "==================" ;
