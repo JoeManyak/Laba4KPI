@@ -8,5 +8,8 @@
 #endif //LABA4_MENU_H
 class Menu
         {
-        Menu(){}
+public:
+       void ShowCurentStats(int,int);
+       void SetTemp(int &);
+       void SetHumidity(int &);
         };

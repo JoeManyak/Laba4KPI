@@ -1,7 +1,11 @@
 #include <iostream>
+
 #include "Menu.h"
 using namespace std;
 int main() {
-    std::cout << "Hello, World!" << std::endl;
+    Menu m;
+    int temp;
+    m.SetTemp(temp);
+    cout<<temp;
     return 0;
 }
